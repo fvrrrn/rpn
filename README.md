@@ -1,6 +1,6 @@
 # RPN Calculator (C)
 
-![Reverse Polish Notation result](assets/graph.gif)
+![Reverse Polish Notation result](assets/graph.png)
 
 This is a modular C program that:
 
